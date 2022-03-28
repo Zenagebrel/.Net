@@ -1,0 +1,45 @@
+﻿body {
+ background-image: url("../Image/WildFirebg.jpg");
+ background-color: #cccccc;
+ text-align:center;
+}
+.maintable {
+    width:80%;
+    height:900px;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:5%;
+    margin-top:5%;
+    border-color:#762323;
+    
+
+}
+
+.ddn
+{
+width:300px;
+height:50px;
+background-color:#ffffff;
+
+font-size:30px;
+font-weight:bold;
+padding: 5px 10px;
+border-radius: 5px 12px;
+/*background-color: #292929;*/
+font-weight: bold;
+}
+
+.btn
+{
+	color: #fff;
+	background-color:#2ecc71;
+	height: 50px;
+	width: 340px;
+	padding:10px;
+	border:none 0px transparent;
+	font-size: 45px;
+	font-weight: lighter;
+	webkit-border-radius: 2px 16px 16px 16px;
+	-moz-border-radius:  2px 16px 16px 16px;
+	border-radius:  2px 16px 16px 16px;
+}
